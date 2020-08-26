@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TCC</string>
+
+    <!-- Tela login -->
+    <string name="text_login">LOGIN</string>
+    <string name="text_email">Digite seu e-mail</string>
+    <string name="text_senha">Digite sua seha</string>
+    <string name="text_confsenha">Confirme sua seha</string>
+    <string name="text_nome">Digite seu nome</string>
+
+    <!-- tela cadastro-->
+    <string name="btn_entrar">ENTRAR</string>
+    <string name="btn_cadastrar">CADASTRAR</string>
+    <string name="btn_contaext">Já tenho uma conta</string>
+    <string name="btn_redsenha">Esqueci minha senha</string>
+
+    <!-- tela perfil-->
+    <string name="btnCancelarAlt">CANCELAR</string>
+    <string name="btnSalvarAlt">SALVAR</string>
+</resources>
